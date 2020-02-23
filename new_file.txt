@@ -1,5 +1,4 @@
 another change
-conflict line
 This is a new file
 second change
 third change
